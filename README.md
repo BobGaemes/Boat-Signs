@@ -23,3 +23,4 @@ Can for example be used with normal minecraft boats or VS Eureka ships.
 - Diagonal small steel truss
 - Horizontal diagonal small steel truss
 - Infinte coal (made for VS Eureka ship engines in creative only)
+- Crafting recipes
