@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Modrinth-gray?logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fmod%2Fboat-signs)
+[<img src="https://img.shields.io/badge/Modrinth-gray?logo=modrinth">](https://modrinth.com/)
 
 # Boat Signs
 This is a minecraft mod for Forge 1.20.1 that adds different types of signs designed for fairways.
