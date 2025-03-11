@@ -1,0 +1,50 @@
+{
+  "boat_sign_place": {
+    "sounds": [
+      {
+        "name": "boat_signs:place1",
+        "stream": false
+      },
+      {
+        "name": "boat_signs:place2",
+        "stream": false
+      },
+      {
+        "name": "boat_signs:place3",
+        "stream": false
+      },
+      {
+        "name": "boat_signs:place4",
+        "stream": false
+      },
+      {
+        "name": "boat_signs:place5",
+        "stream": false
+      },
+      {
+        "name": "boat_signs:place6",
+        "stream": false
+      }
+    ]
+  },
+  "boat_sign_break": {
+    "sounds": [
+      {
+        "name": "boat_signs:break1",
+        "stream": false
+      },
+      {
+        "name": "boat_signs:break2",
+        "stream": false
+      },
+      {
+        "name": "boat_signs:break3",
+        "stream": false
+      },
+      {
+        "name": "boat_signs:break4",
+        "stream": false
+      }
+    ]
+  }
+}

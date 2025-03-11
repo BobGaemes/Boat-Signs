@@ -1,0 +1,9 @@
+{
+  "parent": "boat_signs:custom/no_anchor_sign",
+  "textures": {
+    "all": "boat_signs:block/no_anchor_sign",
+    "particle": "boat_signs:block/no_anchor_sign",
+    "2": "boat_signs:block/no_anchor_sign"
+  },
+  "render_type": "solid"
+}

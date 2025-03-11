@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "boat_signs:blocks/boat_speed_limit_sign_15",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "boat_signs:boat_speed_limit_sign_15"
+        }
+      ]
+    }
+  ]
+}

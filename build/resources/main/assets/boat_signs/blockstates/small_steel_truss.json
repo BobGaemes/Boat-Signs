@@ -1,0 +1,57 @@
+{
+  "variants": {
+    "face=floor,facing=north": {
+      "model": "boat_signs:block/small_steel_truss"
+    },
+    "face=floor,facing=east": {
+      "model": "boat_signs:block/small_steel_truss",
+      "y": 90
+    },
+    "face=floor,facing=south": {
+      "model": "boat_signs:block/small_steel_truss",
+      "y": 180
+    },
+    "face=floor,facing=west": {
+      "model": "boat_signs:block/small_steel_truss",
+      "y": 270
+    },
+    "face=wall,facing=north": {
+      "model": "boat_signs:block/small_steel_truss",
+      "x": 90
+    },
+    "face=wall,facing=east": {
+      "model": "boat_signs:block/small_steel_truss",
+      "x": 90,
+      "y": 90
+    },
+    "face=wall,facing=south": {
+      "model": "boat_signs:block/small_steel_truss",
+      "x": 90,
+      "y": 180
+    },
+    "face=wall,facing=west": {
+      "model": "boat_signs:block/small_steel_truss",
+      "x": 90,
+      "y": 270
+    },
+    "face=ceiling,facing=north": {
+      "model": "boat_signs:block/small_steel_truss",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=east": {
+      "model": "boat_signs:block/small_steel_truss",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=south": {
+      "model": "boat_signs:block/small_steel_truss",
+      "x": 180
+    },
+    "face=ceiling,facing=west": {
+      "model": "boat_signs:block/small_steel_truss",
+      "x": 180,
+      "y": 90
+    }
+  }
+}

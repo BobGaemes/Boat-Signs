@@ -1,0 +1,9 @@
+{
+  "parent": "boat_signs:custom/open_bridge_sign",
+  "textures": {
+    "all": "boat_signs:block/open_bridge_sign",
+    "particle": "boat_signs:block/open_bridge_sign",
+    "1": "boat_signs:block/open_bridge_sign"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "height_sign_3_5"
+      },
+      "name": "default"
+    }
+  }
+}

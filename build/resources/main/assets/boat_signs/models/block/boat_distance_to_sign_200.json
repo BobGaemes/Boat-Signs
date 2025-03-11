@@ -1,0 +1,9 @@
+{
+  "parent": "boat_signs:custom/distance_to_sign_200",
+  "textures": {
+    "all": "boat_signs:block/distance_to_sign_200",
+    "particle": "boat_signs:block/distance_to_sign_200",
+    "1": "boat_signs:block/distance_to_sign_200"
+  },
+  "render_type": "solid"
+}

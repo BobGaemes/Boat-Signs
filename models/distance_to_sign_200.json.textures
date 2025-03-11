@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "distance_to_sign_200"
+      },
+      "name": "default"
+    }
+  }
+}

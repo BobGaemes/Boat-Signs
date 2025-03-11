@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "boat_signs:blocks/small_steel_truss_holder",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "boat_signs:small_steel_truss_holder"
+        }
+      ]
+    }
+  ]
+}

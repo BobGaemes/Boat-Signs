@@ -1,0 +1,383 @@
+{
+  "mod_elements": [
+    {
+      "name": "BoatHeightSign35",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boat_height_sign_35",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/boat_signs/models/item/boat_height_sign_35.json",
+          "src/main/resources/assets/boat_signs/models/block/boat_height_sign_35.json",
+          "src/main/java/net/imthebeemoplush/boatsigns/block/BoatHeightSign35Block.java",
+          "src/main/resources/data/boat_signs/loot_tables/blocks/boat_height_sign_35.json",
+          "src/main/resources/assets/boat_signs/blockstates/boat_height_sign_35.json"
+        ]
+      }
+    },
+    {
+      "name": "BoatHeightSign127",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boat_height_sign_127",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/boat_signs/models/item/boat_height_sign_127.json",
+          "src/main/resources/assets/boat_signs/blockstates/boat_height_sign_127.json",
+          "src/main/resources/assets/boat_signs/models/block/boat_height_sign_127.json",
+          "src/main/resources/data/boat_signs/loot_tables/blocks/boat_height_sign_127.json",
+          "src/main/java/net/imthebeemoplush/boatsigns/block/BoatHeightSign127Block.java"
+        ]
+      }
+    },
+    {
+      "name": "BoatHeightSign20",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boat_height_sign_20",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/boat_signs/loot_tables/blocks/boat_height_sign_20.json",
+          "src/main/resources/assets/boat_signs/blockstates/boat_height_sign_20.json",
+          "src/main/resources/assets/boat_signs/models/item/boat_height_sign_20.json",
+          "src/main/java/net/imthebeemoplush/boatsigns/block/BoatHeightSign20Block.java",
+          "src/main/resources/assets/boat_signs/models/block/boat_height_sign_20.json"
+        ]
+      }
+    },
+    {
+      "name": "BoatOpenBridgeSign",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boat_open_bridge_sign",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/boat_signs/blockstates/boat_open_bridge_sign.json",
+          "src/main/resources/assets/boat_signs/models/block/boat_open_bridge_sign.json",
+          "src/main/resources/data/boat_signs/loot_tables/blocks/boat_open_bridge_sign.json",
+          "src/main/resources/assets/boat_signs/models/item/boat_open_bridge_sign.json",
+          "src/main/java/net/imthebeemoplush/boatsigns/block/BoatOpenBridgeSignBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "BoatFishingGearSign",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boat_fishing_gear_sign",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/boat_signs/models/item/boat_fishing_gear_sign.json",
+          "src/main/resources/data/boat_signs/loot_tables/blocks/boat_fishing_gear_sign.json",
+          "src/main/resources/assets/boat_signs/models/block/boat_fishing_gear_sign.json",
+          "src/main/resources/assets/boat_signs/blockstates/boat_fishing_gear_sign.json",
+          "src/main/java/net/imthebeemoplush/boatsigns/block/BoatFishingGearSignBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "BoatNoAnchorSign",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boat_no_anchor_sign",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/boat_signs/models/item/boat_no_anchor_sign.json",
+          "src/main/resources/data/boat_signs/loot_tables/blocks/boat_no_anchor_sign.json",
+          "src/main/resources/assets/boat_signs/blockstates/boat_no_anchor_sign.json",
+          "src/main/resources/assets/boat_signs/models/block/boat_no_anchor_sign.json",
+          "src/main/java/net/imthebeemoplush/boatsigns/block/BoatNoAnchorSignBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "BoatNoMoorSign",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boat_no_moor_sign",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/boat_signs/blockstates/boat_no_moor_sign.json",
+          "src/main/java/net/imthebeemoplush/boatsigns/block/BoatNoMoorSignBlock.java",
+          "src/main/resources/assets/boat_signs/models/block/boat_no_moor_sign.json",
+          "src/main/resources/data/boat_signs/loot_tables/blocks/boat_no_moor_sign.json",
+          "src/main/resources/assets/boat_signs/models/item/boat_no_moor_sign.json"
+        ]
+      }
+    },
+    {
+      "name": "BoatNoWaterScooterSign",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boat_no_water_scooter_sign",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/boat_signs/models/item/boat_no_water_scooter_sign.json",
+          "src/main/java/net/imthebeemoplush/boatsigns/block/BoatNoWaterScooterSignBlock.java",
+          "src/main/resources/assets/boat_signs/models/block/boat_no_water_scooter_sign.json",
+          "src/main/resources/data/boat_signs/loot_tables/blocks/boat_no_water_scooter_sign.json",
+          "src/main/resources/assets/boat_signs/blockstates/boat_no_water_scooter_sign.json"
+        ]
+      }
+    },
+    {
+      "name": "BoatDistanceToSign100",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boat_distance_to_sign_100",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/boat_signs/blockstates/boat_distance_to_sign_100.json",
+          "src/main/resources/data/boat_signs/loot_tables/blocks/boat_distance_to_sign_100.json",
+          "src/main/resources/assets/boat_signs/models/block/boat_distance_to_sign_100.json",
+          "src/main/resources/assets/boat_signs/models/item/boat_distance_to_sign_100.json",
+          "src/main/java/net/imthebeemoplush/boatsigns/block/BoatDistanceToSign100Block.java"
+        ]
+      }
+    },
+    {
+      "name": "BoatDistanceToSign200",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boat_distance_to_sign_200",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/boat_signs/blockstates/boat_distance_to_sign_200.json",
+          "src/main/resources/assets/boat_signs/models/block/boat_distance_to_sign_200.json",
+          "src/main/java/net/imthebeemoplush/boatsigns/block/BoatDistanceToSign200Block.java",
+          "src/main/resources/data/boat_signs/loot_tables/blocks/boat_distance_to_sign_200.json",
+          "src/main/resources/assets/boat_signs/models/item/boat_distance_to_sign_200.json"
+        ]
+      }
+    },
+    {
+      "name": "BoatCableSign",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boat_cable_sign",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/boat_signs/models/item/boat_cable_sign.json",
+          "src/main/resources/assets/boat_signs/models/block/boat_cable_sign.json",
+          "src/main/java/net/imthebeemoplush/boatsigns/block/BoatCableSignBlock.java",
+          "src/main/resources/assets/boat_signs/blockstates/boat_cable_sign.json",
+          "src/main/resources/data/boat_signs/loot_tables/blocks/boat_cable_sign.json"
+        ]
+      }
+    },
+    {
+      "name": "BoatSpeedLimitSign3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boat_speed_limit_sign_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/boat_signs/loot_tables/blocks/boat_speed_limit_sign_3.json",
+          "src/main/resources/assets/boat_signs/models/block/boat_speed_limit_sign_3.json",
+          "src/main/resources/assets/boat_signs/models/item/boat_speed_limit_sign_3.json",
+          "src/main/resources/assets/boat_signs/blockstates/boat_speed_limit_sign_3.json",
+          "src/main/java/net/imthebeemoplush/boatsigns/block/BoatSpeedLimitSign3Block.java"
+        ]
+      }
+    },
+    {
+      "name": "BoatSpeedLimitSign15",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boat_speed_limit_sign_15",
+      "metadata": {
+        "files": [
+          "src/main/java/net/imthebeemoplush/boatsigns/block/BoatSpeedLimitSign15Block.java",
+          "src/main/resources/assets/boat_signs/blockstates/boat_speed_limit_sign_15.json",
+          "src/main/resources/data/boat_signs/loot_tables/blocks/boat_speed_limit_sign_15.json",
+          "src/main/resources/assets/boat_signs/models/block/boat_speed_limit_sign_15.json",
+          "src/main/resources/assets/boat_signs/models/item/boat_speed_limit_sign_15.json"
+        ]
+      }
+    },
+    {
+      "name": "BoatSpeedLimitSign10",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boat_speed_limit_sign_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/boat_signs/loot_tables/blocks/boat_speed_limit_sign_10.json",
+          "src/main/java/net/imthebeemoplush/boatsigns/block/BoatSpeedLimitSign10Block.java",
+          "src/main/resources/assets/boat_signs/blockstates/boat_speed_limit_sign_10.json",
+          "src/main/resources/assets/boat_signs/models/block/boat_speed_limit_sign_10.json",
+          "src/main/resources/assets/boat_signs/models/item/boat_speed_limit_sign_10.json"
+        ]
+      }
+    },
+    {
+      "name": "BoatSpeedLimitSign5",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boat_speed_limit_sign_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/boat_signs/loot_tables/blocks/boat_speed_limit_sign_5.json",
+          "src/main/resources/assets/boat_signs/models/block/boat_speed_limit_sign_5.json",
+          "src/main/resources/assets/boat_signs/models/item/boat_speed_limit_sign_5.json",
+          "src/main/resources/assets/boat_signs/blockstates/boat_speed_limit_sign_5.json",
+          "src/main/java/net/imthebeemoplush/boatsigns/block/BoatSpeedLimitSign5Block.java"
+        ]
+      }
+    },
+    {
+      "name": "SmallSteelTruss",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_steel_truss",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/boat_signs/models/item/small_steel_truss.json",
+          "src/main/java/net/imthebeemoplush/boatsigns/block/SmallSteelTrussBlock.java",
+          "src/main/resources/data/boat_signs/loot_tables/blocks/small_steel_truss.json",
+          "src/main/resources/assets/boat_signs/models/block/small_steel_truss.json",
+          "src/main/resources/assets/boat_signs/blockstates/small_steel_truss.json"
+        ]
+      }
+    },
+    {
+      "name": "SmallSteelTrussHolder",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "small_steel_truss_holder",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/boat_signs/loot_tables/blocks/small_steel_truss_holder.json",
+          "src/main/resources/assets/boat_signs/models/item/small_steel_truss_holder.json",
+          "src/main/java/net/imthebeemoplush/boatsigns/block/SmallSteelTrussHolderBlock.java",
+          "src/main/resources/assets/boat_signs/blockstates/small_steel_truss_holder.json",
+          "src/main/resources/assets/boat_signs/models/block/small_steel_truss_holder.json"
+        ]
+      }
+    },
+    {
+      "name": "BoatSignsTab",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boat_signs_tab",
+      "metadata": {
+        "files": []
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "boat_sign_place",
+      "files": [
+        "place1",
+        "place2",
+        "place3",
+        "place4",
+        "place5",
+        "place6"
+      ],
+      "category": "block",
+      "subtitle": ""
+    },
+    {
+      "name": "boat_sign_break",
+      "files": [
+        "break1",
+        "break2",
+        "break3",
+        "break4"
+      ],
+      "category": "block",
+      "subtitle": ""
+    }
+  ],
+  "tag_elements": {
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:SmallSteelTrussHolder",
+      "~CUSTOM:SmallSteelTruss"
+    ]
+  },
+  "tab_element_order": {
+    "CUSTOM:BoatSingsTab": []
+  },
+  "language_map": {
+    "en_us": {
+      "block.boat_sings.boat_no_moor_sign": "Boat No Mooring Sign",
+      "block.boat_sings.boat_no_anchor_sign": "Boat No Anchoring Sign",
+      "block.boat_signs.small_steel_truss": "Small Steel Truss",
+      "block.boat_signs.boat_height_sign_35": "Boat Height Sign 3,5m",
+      "block.boat_sings.boat_height_sign_20": "Boat Height Sign 20m",
+      "block.boat_sings.boat_fishing_gear_sign": "Boat Fishing Gear Sign",
+      "block.boat_sings.boat_height_sign_35": "Boat Height Sign 3,5m",
+      "block.boat_sings.boat_open_bridge_sign": "Boat Opening Bridge Sign",
+      "item_group.boat_signs.boat_signs_tab": "Boat Signs",
+      "block.boat_signs.boat_height_sign_127": "Boat Height Sign 12,7m",
+      "block.boat_signs.boat_open_bridge_sign": "Boat Opening Bridge Sign",
+      "block.boat_sings.boat_height_sign_127": "Boat Height Sign 12,7m",
+      "block.boat_signs.boat_fishing_gear_sign": "Boat Fishing Gear Sign",
+      "block.boat_signs.boat_no_anchor_sign": "Boat No Anchoring Sign",
+      "block.boat_signs.boat_speed_limit_sign_10": "Boat Speed Limit Sign 10",
+      "block.boat_sings.boat_cable_sign": "Boat Cable Sign",
+      "block.boat_signs.boat_speed_limit_sign_15": "Boat Speed Limit Sign 15",
+      "block.boat_signs.boat_cable_sign": "Boat Cable Sign",
+      "block.boat_signs.boat_speed_limit_sign_3": "Boat Speed Limit Sign 3",
+      "block.boat_sings.boat_no_water_scooter_sign": "Boat No Water Scooter Sign",
+      "block.boat_signs.boat_distance_to_sign_100": "Boat Distance to Sign 100m",
+      "block.boat_signs.boat_distance_to_sign_200": "Boat Distance to Sign 200m",
+      "block.boat_signs.boat_speed_limit_sign_5": "Boat Speed Limit Sign 5",
+      "block.boat_sings.boat_speed_limit_sign_10": "Boat Speed Limit Sign 10",
+      "block.boat_signs.boat_no_moor_sign": "Boat No Mooring Sign",
+      "subtitles.boat_sign_place": "",
+      "block.boat_signs.boat_height_sign_20": "Boat Height Sign 20m",
+      "block.boat_signs.small_steel_truss_holder": "Small Steel Truss Sign Holder",
+      "block.boat_sings.boat_speed_limit_sign_15": "Boat Speed Limit Sign 15",
+      "block.boat_sings.boat_distance_to_sign_100": "Boat Distance to Sign 100m",
+      "block.boat_sings.boat_distance_to_sign_200": "Boat Distance to Sign 200m",
+      "subtitles.boat_sign_break": "",
+      "block.boat_signs.boat_no_water_scooter_sign": "Boat No Water Scooter Sign",
+      "block.boat_sings.boat_speed_limit_sign_3": "Boat Speed Limit Sign 3",
+      "block.boat_sings.boat_speed_limit_sign_5": "Boat Speed Limit Sign 5"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "boat_signs",
+    "modName": "Boat Signs",
+    "version": "1.0.2",
+    "description": "Adds Swedish Boat Signs",
+    "author": "ImTheBeemoPlush, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "MIT License",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.imthebeemoplush.boatsigns"
+  },
+  "mcreatorVersion": 202400340615
+}

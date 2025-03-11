@@ -1,0 +1,9 @@
+{
+  "parent": "boat_signs:custom/height_sign_20",
+  "textures": {
+    "all": "boat_signs:block/height_sign_20",
+    "particle": "boat_signs:block/height_sign_20",
+    "2": "boat_signs:block/height_sign_20"
+  },
+  "render_type": "solid"
+}

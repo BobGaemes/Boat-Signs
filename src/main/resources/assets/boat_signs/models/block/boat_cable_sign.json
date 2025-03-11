@@ -1,0 +1,9 @@
+{
+  "parent": "boat_signs:custom/cable_sign",
+  "textures": {
+    "all": "boat_signs:block/cable_sign",
+    "particle": "boat_signs:block/cable_sign",
+    "1": "boat_signs:block/cable_sign"
+  },
+  "render_type": "solid"
+}

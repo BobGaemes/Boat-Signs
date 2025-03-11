@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "no_water_scooter_sign"
+      },
+      "name": "default"
+    }
+  }
+}

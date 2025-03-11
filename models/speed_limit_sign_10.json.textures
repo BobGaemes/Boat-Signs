@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "speed_limit_sign_10"
+      },
+      "name": "default"
+    }
+  }
+}

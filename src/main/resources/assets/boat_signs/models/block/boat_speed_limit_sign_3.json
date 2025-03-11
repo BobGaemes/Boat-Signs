@@ -1,0 +1,9 @@
+{
+  "parent": "boat_signs:custom/speed_limit_sign_3",
+  "textures": {
+    "all": "boat_signs:block/speed_limit_sign_3",
+    "particle": "boat_signs:block/speed_limit_sign_3",
+    "1": "boat_signs:block/speed_limit_sign_3"
+  },
+  "render_type": "solid"
+}

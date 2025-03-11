@@ -1,0 +1,9 @@
+{
+  "parent": "boat_signs:custom/sign_base",
+  "textures": {
+    "all": "boat_signs:block/steel_truss",
+    "particle": "boat_signs:block/steel_truss",
+    "1": "boat_signs:block/steel_truss"
+  },
+  "render_type": "cutout"
+}

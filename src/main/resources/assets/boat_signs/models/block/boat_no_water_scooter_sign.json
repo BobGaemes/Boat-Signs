@@ -1,0 +1,9 @@
+{
+  "parent": "boat_signs:custom/no_water_scooter_sign",
+  "textures": {
+    "all": "boat_signs:block/no_water_scooter_sign",
+    "particle": "boat_signs:block/no_water_scooter_sign",
+    "1": "boat_signs:block/no_water_scooter_sign"
+  },
+  "render_type": "solid"
+}

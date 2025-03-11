@@ -1,0 +1,9 @@
+{
+  "parent": "boat_signs:custom/fishing_gear_sign",
+  "textures": {
+    "all": "boat_signs:block/fishing_gear_sign",
+    "particle": "boat_signs:block/fishing_gear_sign",
+    "2": "boat_signs:block/fishing_gear_sign"
+  },
+  "render_type": "solid"
+}

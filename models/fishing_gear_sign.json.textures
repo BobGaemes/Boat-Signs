@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "fishing_gear_sign"
+      },
+      "name": "default"
+    }
+  }
+}

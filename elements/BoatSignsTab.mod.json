@@ -1,0 +1,11 @@
+{
+  "_fv": 69,
+  "_type": "tab",
+  "definition": {
+    "name": "Boat Signs",
+    "icon": {
+      "value": "CUSTOM:BoatNoAnchorSign"
+    },
+    "showSearch": false
+  }
+}
