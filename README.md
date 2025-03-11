@@ -17,10 +17,10 @@ Can for example be used with normal minecraft boats or VS Eureka ships.
 - Speed limit sign (3, 5, 10, 15, you choose unit, ex m/s, knots, km/h)
 - Height limit sign (3.5m, 12.7m, 20m)
 - Small steel truss
+- Diagonal small steel truss
 
 ## Planning to be added
 - Horizontal small steel truss
-- Diagonal small steel truss
 - Horizontal diagonal small steel truss
 - Infinte coal (made for VS Eureka ship engines in creative only)
 - Crafting recipes
